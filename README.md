@@ -1,1 +1,1 @@
-# basic_algo
+# basic algorithms
